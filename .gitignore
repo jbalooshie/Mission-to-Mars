@@ -1,0 +1,6 @@
+# Ignore pychache
+\__pycache__
+
+# Ignore chromedriver.exe
+chromedriver.exe
+
